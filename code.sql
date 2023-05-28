@@ -10,7 +10,6 @@ CREATE TABLE TAXI (
    UNIQUE (Registration_no)
 );
 
-
 CREATE TABLE  USER_TBL (
    Usr_id integer NOT NULL,
    F_name VARCHAR(20),
